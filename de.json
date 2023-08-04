@@ -1,0 +1,142 @@
+{
+    "navbar_beatmaps": "Beatmaps",
+    "navbar_beatmap_pack": "Beatmap Packs",
+    "navbar_documents": "Dokumentation",
+
+    
+    "footer_nerinyan_powered": "NeriNyan powered 2021 ~ 2023 | not affiliated with ppy, osu!",
+    "footer_dmca": "DMCA",
+    "footer_documents": "Dokumentation",
+    "footer_github": "Github",
+    "footer_discord": "Discord",
+    "footer_info/status": "Status",
+
+
+    "not_found": "404 Nicht gefunden 🙀",
+    "not_found_message": "Was zum henker suchst du?",
+    "not_found_message2": "ich empfehle dir zur hauptseite zurückzukehren :)",
+    "return_to_main_page": "Zurück zur Hauptseite",
+
+    "oops": "Ups...",
+    "search_results_do_not_exist": "Suchergebnisse existieren nicht :(",
+
+    "loading": "Lade...",
+    "loaded": "Geladen!",
+
+    "announcement": "Ankündigung",
+
+    "please_wait_to_download": "Bitte warte auf den Download...",
+    "not_selected_to_download": "Nicht ausgewählt zum Download",
+    "zip_system_announcement": "Archivierungs System Meldung",
+    "zip_system_announcement_message1": "Die ausgewälten beatmaps zur archivierung wurden heruntergeladen.",
+    "zip_system_announcement_message2": "Archivierung ist in arbeit... Bitte habe etwas Geduld!",
+    "zip_system_announcement_message3": "Diese Meldung wird nach {} Sekunden geschlossen.",
+    "ok": "ok",
+
+    "thank_you_for_using_nerinyan": "Danke dass du Nerinyan nutzt!🐈",
+    "your_requested_beatmapset_will_download": "Dein Beatmapset wird heruntergeladen... Herunterladen fehlgeschlagen?",
+    "click_here_to_download_manually": "Klicke hier um manuell herunterzuladen.",
+
+
+    "search": "Suchen",
+    "search_placeholder": "Suchen...",
+    
+    "mode": "Modus",
+    "mode_any": "Alle",
+    "mode_osu": "osu!",
+    "mode_taiko": "osu!taiko",
+    "mode_catch": "osu!catch",
+    "mode_mania": "osu!mania",
+
+    "categories": "Kategorien",
+    "categories_any": "Alle",
+    "categories_has_leaderboard": "Hat Ranglisten",
+    "categories_ranked": "Ranked",
+    "categories_qualified": "Qualifiziert",
+    "categories_loved": "Loved",
+    "categories_pending": "Ausstehend",
+    "categories_wip": "WIP",
+    "categories_graveyard": "Graveyard",
+
+    "explicit_content": "Explizite Beatmaps",
+    "explicit_content_hide": "Ausblenden",
+    "explicit_content_show": "Anzeigen",
+
+    "extra": "Extras",
+    "extra_has_video": "Hat Video",
+    "extra_has_storyboard": "Hat Storyboard",
+
+    "sort_by": "Sortieren nach",
+    "sort_by_title": "Titel",
+    "sort_by_artist": "Künstler",
+    "sort_by_difficulty": "Schwierigkeit",
+    "sort_by_ranked": "Ranked",
+    "sort_by_updated": "Letze Updates",
+    "sort_by_plays": "Plays",
+    "sort_by_favorites": "Favoriten",
+
+    "filter_ar": "AR",
+    "filter_cs": "CS",
+    "filter_od": "OD",
+    "filter_hp": "HP",
+    "filter_bpm": "BPM",
+    "filter_star_rating": "Star Rating",
+
+    "download_options": "Download Optionen",
+    "download_options_direct_download": "Direkter Download",
+    "download_options_no_video": "Kein Video",
+    "download_options_no_background": "Kein Hintergrund",
+    "download_options_no_hitsound": "Keine Hitsounds",
+    "download_options_no_storyboard": "Kein Storyboard",
+
+    "zip_download": "Archiv/Zip Download (beta)",
+    "zip_download_selected_download": "Ausgewählter Download",
+    "zip_download_all_download": "Alles Downloaden",
+
+    "show_beatmap_info": "Beatmap infos anzeigen",
+    "hide_beatmap_info": "Beatmap Infos ausblenden",
+
+    "ranked": "Ranked",
+    "qualified": "Qualifiziert",
+    "loved": "Loved",
+    "pending": "Ausstehend",
+    "wip": "WIP",
+    "graveyard": "Graveyard",
+    "unknown": "Unbekannt",
+
+    "explict": "EXPLIZIT",
+    "favorites_count": "Anzahl an Favoriten",
+    "play_count": "Anzahl an Plays",
+
+    "download": "download",
+    "bg": "BG",
+    "download_bg": "Download BG",
+    "beatmap_page": "Beatmap Seite",
+    "preview": "Preview",
+    "copy_download_url": "Kopiere download URL",
+
+    "mapped_by": "erstellt von",
+    "submitted": "eingereicht",
+    "total_length": "Länge",
+    "bpm": "BPM",
+    "circle_count": "Circle Anzahl",
+    "slider_count": "Slider Anzahl",
+    "circle_size": "Circle Size",
+    "key_count": "Key Count",
+    "hp_drain": "HP Drain",
+    "accuracy": "Präzision",
+    "approach_rate": "Approach Rate",
+    "star_rating": "Star Difficulty",
+    "success_rate": "Erfolgsrate",
+    "source": "Quelle",
+    "tags": "Tags",
+
+
+    "this_beatmap_contains_video": "Diese Beatmap hat ein video.",
+    "this_beatmap_contains_storyboard": "Diese Beatmap hat ein storyboard.",
+    "append_this_beatmap_to_download_list": "Füge diese Beatmap zur Download Liste hinzufügen",
+    "download_beatmap_background_image": "Lade Beatmap hintergrundbild herunter",
+    "go_to_osu_beatmap_page": "Gehe zur Beatmap Seite",
+    "go_to_beatmap_preview_site": "Gehe zur Beatmap Preview Seite",
+    "catch_not_supported_beatmap_preview.": "osu!catch wird nicht unterstützt für Beatmap previews."
+}
