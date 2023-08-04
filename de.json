@@ -132,11 +132,11 @@
     "tags": "Tags",
 
 
-    "this_beatmap_contains_video": "Diese Beatmap hat ein video.",
-    "this_beatmap_contains_storyboard": "Diese Beatmap hat ein storyboard.",
-    "append_this_beatmap_to_download_list": "Füge diese Beatmap zur Download Liste hinzufügen",
-    "download_beatmap_background_image": "Lade Beatmap hintergrundbild herunter",
+    "this_beatmap_contains_video": "Diese Beatmap hat ein Video.",
+    "this_beatmap_contains_storyboard": "Diese Beatmap hat ein Storyboard.",
+    "append_this_beatmap_to_download_list": "Füge diese Beatmap zur Download Liste hinzu",
+    "download_beatmap_background_image": "Lade das Beatmap Hintergrundbild herunter",
     "go_to_osu_beatmap_page": "Gehe zur Beatmap Seite",
     "go_to_beatmap_preview_site": "Gehe zur Beatmap Preview Seite",
-    "catch_not_supported_beatmap_preview.": "osu!catch wird nicht unterstützt für Beatmap previews."
+    "catch_not_supported_beatmap_preview.": "osu!catch wird nicht unterstützt für Beatmap Previews."
 }
