@@ -124,5 +124,6 @@
     "append_this_beatmap_to_download_list": "Append this beatmap to Download list",
     "download_beatmap_background_image": "Download beatmap background image",
     "go_to_osu_beatmap_page": "Go to osu! beatmap page",
+    "go_to_beatmap_preview_site": "Go to beatmap preview site",
     "catch_not_supported_beatmap_preview.": "osu!catch not supported beatmap preview."
 }
