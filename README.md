@@ -12,7 +12,7 @@ Localization for Nerinyan Website
 
 _**(*) IMPORTANT**_  
 The filename should be formatted according to ISO 3166-1 alpha-2.  
-You can find the ISO 3166-1 alpha-2 code for your country here: [https:/wikipedia.org/wiki/ISO_3166-1](https:/wikipedia.org/wiki/ISO_3166-1)
+You can find the ISO 3166-1 alpha-2 code for your country here: [https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes](https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 
 # List of currently supported languages
 * English (EN) - [Zeee](https://github.com/zeee2), [Levi](https://github.com/Lekuruu)
