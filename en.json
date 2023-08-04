@@ -1,4 +1,32 @@
 {
+    "navbar_beatmaps": "beatmaps",
+    "navbar_beatmap_pack": "Beatmap Packs",
+    "navbar_documents": "Documents",
+
+    
+    "footer_dmca": "DMCA",
+    "footer_documents": "Documents",
+    "footer_github": "Github",
+    "footer_discord": "Discord",
+    "footer_info/status": "Info/Status",
+
+    
+    "not_found": "404 Not Found 🙀",
+    "not_found_message": "What the heck are you looking for?",
+    "loading": "Loading...",
+    "loaded": "Loaded!",
+    "announcement": "Announcement",
+    "please_wait_to_download": "Please wait to download...",
+    "zip_system_announcement": "Zip System Announcement",
+    "zip_system_announcement_message": "The beatmaps to be compressed have ben downloaded.\n\nCompression is in porgress, please be patient!\n\n\n\nThis message will be closed after {} seconds",
+    "ok": "ok",
+
+
+    "thank_you_for_using_nerinyan": "Thank you for using Nerinyan!🐈",
+    "your_requested_beatmapset_will_download": "Your Requested Beatmapset will download in seconds... Download failed?",
+    "click_here_to_download_manually": "Click Here to download manually.",
+
+
     "search": "Search...",
     
     "mode": "Mode",
