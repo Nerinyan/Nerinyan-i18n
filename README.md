@@ -8,7 +8,7 @@ Localization for Nerinyan Website
 
 **Third,** copy and paste the contents of the en.json file into the json file you created, translate it to language you are contributing, and hit commit.   
 
-**Finally,** return to original repositry[(Nerinyan-i18n)](https://github.com/Nerinyan/Nerinyan-i18n) and create a pull request.
+**Finally,** return to original repository[(Nerinyan-i18n)](https://github.com/Nerinyan/Nerinyan-i18n) and create a pull request.
 
 _**(*) IMPORTANT**_  
 The filename should be formatted according to ISO 3166-1 alpha-2.  
