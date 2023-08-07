@@ -13,12 +13,12 @@
 
 
     "not_found": "404 Not Found 🙀",
-    "not_found_message": "What the heck are you looking for?",
-    "not_found_message2": "i recommand for you return to main page :)",
+    "not_found_message": "What you're trying to find, doesn't exist here 😿",
+    "not_found_message2": "There's no more front here. How about going back to the main page? 😽",
     "return_to_main_page": "Return to Main Page",
 
     "oops": "Oops...",
-    "search_results_do_not_exist": "Search results do not exist :(",
+    "search_results_do_not_exist": "As the cats searching the mapsets of 1TB, they couldn't find your keyword. 😥",
 
     "loading": "Loading...",
     "loaded": "Loaded!",
