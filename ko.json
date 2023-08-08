@@ -1,0 +1,142 @@
+{
+    "navbar_beatmaps": "비트맵",
+    "navbar_beatmap_pack": "비트맵 팩",
+    "navbar_documents": "문서",
+
+    
+    "footer_nerinyan_powered": "네리냥, 2021 ~ 2023 | ppy의 osu!와는 관련된 것이 없습니다.",
+    "footer_dmca": "DMCA (디지털 밀레니엄 저작권법)",
+    "footer_documents": "문서",
+    "footer_github": "Github",
+    "footer_discord": "디스코드",
+    "footer_info/status": "정보/상태",
+
+
+    "not_found": "404 에러 (파일이 존재하지 않습니다! 🙀)",
+    "not_found_message": "찾으시려는 항목이 존재하지 않습니다. 😿",
+    "not_found_message2": "더 이상 항목이 존재하지 않습니다. 메인 페이지로 돌아가는 것은 어떨까요? 😽",
+    "return_to_main_page": "메인 페이지로 돌아가기",
+
+    "oops": "어...",
+    "search_results_do_not_exist": "고양이들이 열심히 1TB 이상의 맵셋들을 찾았지만 당신이 입력한 키워드의 맵셋을 찾을 수 없었습니다. 😥",
+
+    "loading": "로딩 중...",
+    "loaded": "로딩 완료!",
+
+    "announcement": "공지",
+
+    "please_wait_to_download": "다운로드 대기 중...",
+    "not_selected_to_download": "다운로드 하도록 선택되지 않음",
+    "zip_system_announcement": "압축 시스템 공지",
+    "zip_system_announcement_message1": "맵셋이 압축되었고, 다운로드되었습니다.",
+    "zip_system_announcement_message2": "Compression is in porgress, please be patient!",
+    "zip_system_announcement_message3": "This message will be closed after {} seconds",
+    "ok": "ok",
+
+    "thank_you_for_using_nerinyan": "Thank you for using Nerinyan!🐈",
+    "your_requested_beatmapset_will_download": "Your Requested Beatmapset will download in seconds... Download failed?",
+    "click_here_to_download_manually": "Click Here to download manually.",
+
+
+    "search": "Search",
+    "search_placeholder": "Search...",
+    
+    "mode": "Mode",
+    "mode_any": "Any",
+    "mode_osu": "osu!",
+    "mode_taiko": "osu!taiko",
+    "mode_catch": "osu!catch",
+    "mode_mania": "osu!mania",
+
+    "categories": "Catrgories",
+    "categories_any": "Any",
+    "categories_has_leaderboard": "Has Leaderboard",
+    "categories_ranked": "Ranked",
+    "categories_qualified": "Qualified",
+    "categories_loved": "Loved",
+    "categories_pending": "Pending",
+    "categories_wip": "WIP",
+    "categories_graveyard": "Graveyard",
+
+    "explicit_content": "Explicit Content",
+    "explicit_content_hide": "Hide",
+    "explicit_content_show": "Show",
+
+    "extra": "Extra",
+    "extra_has_video": "Has Video",
+    "extra_has_storyboard": "Has Storyboard",
+
+    "sort_by": "Sort by",
+    "sort_by_title": "Title",
+    "sort_by_artist": "Artist",
+    "sort_by_difficulty": "Difficulty",
+    "sort_by_ranked": "Ranked",
+    "sort_by_updated": "Updated",
+    "sort_by_plays": "Plays",
+    "sort_by_favorites": "Favorites",
+
+    "filter_ar": "AR",
+    "filter_cs": "CS",
+    "filter_od": "OD",
+    "filter_hp": "HP",
+    "filter_bpm": "BPM",
+    "filter_star_rating": "Star Rating",
+
+    "download_options": "Download Options",
+    "download_options_direct_download": "Download directly",
+    "download_options_no_video": "No Video",
+    "download_options_no_background": "No Background",
+    "download_options_no_hitsound": "No Hitsound",
+    "download_options_no_storyboard": "No Storyboard",
+
+    "zip_download": "Zip Download (beta)",
+    "zip_download_selected_download": "Selected Download",
+    "zip_download_all_download": "All Download",
+
+    "show_beatmap_info": "Show Beatmap info",
+    "hide_beatmap_info": "Hide Beatmap Info",
+
+    "ranked": "Ranked",
+    "qualified": "Qualified",
+    "loved": "Loved",
+    "pending": "Pending",
+    "wip": "WIP",
+    "graveyard": "Graveyard",
+    "unknown": "Unknown",
+
+    "explict": "EXPLICIT",
+    "favorites_count": "Favorites count",
+    "play_count": "Play count",
+
+    "download": "download",
+    "bg": "BG",
+    "download_bg": "Download BG",
+    "beatmap_page": "Beatmap Page",
+    "preview": "Preview",
+    "copy_download_url": "Copy download URL",
+
+    "mapped_by": "mapped by",
+    "submitted": "submitted",
+    "total_length": "Total length",
+    "bpm": "BPM",
+    "circle_count": "Circle count",
+    "slider_count": "Slider count",
+    "circle_size": "Circle Size",
+    "key_count": "Key Count",
+    "hp_drain": "HP Drain",
+    "accuracy": "Accuracy",
+    "approach_rate": "Approach Rate",
+    "star_rating": "Star Rating",
+    "success_rate": "Success Rate",
+    "source": "Source",
+    "tags": "Tags",
+
+
+    "this_beatmap_contains_video": "This beatmap contains video.",
+    "this_beatmap_contains_storyboard": "This beatmap contains storyboard.",
+    "append_this_beatmap_to_download_list": "Append this beatmap to Download list",
+    "download_beatmap_background_image": "Download beatmap background image",
+    "go_to_osu_beatmap_page": "Go to osu! beatmap page",
+    "go_to_beatmap_preview_site": "Go to beatmap preview site",
+    "catch_not_supported_beatmap_preview.": "osu!catch not supported beatmap preview."
+}
