@@ -31,7 +31,7 @@
     "zip_system_announcement_message1": "맵셋이 압축되었고, 다운로드되었습니다.",
     "zip_system_announcement_message2": "맵셋 압축이 진행중입니다! 잠시만 기다려주세요.",
     "zip_system_announcement_message3": "이 메세지는 {}초 후에 닫힙니다.",
-    "ok": "확인",
+    "zip_system_announcement_close_button": "확인",
 
     "thank_you_for_using_nerinyan": "Nerinyan을 이용해 주셔서 감사합니다! 🐈",
     "your_requested_beatmapset_will_download": "선택하신 비트맵이 곧 다운로드 됩니다. 잠시만 기다리시면 리다이렉트 됩니다! 다운로드 시작이 안 되었나요?",
@@ -138,5 +138,12 @@
     "download_beatmap_background_image": "비트맵 백그라운드 이미지를 다운로드",
     "go_to_osu_beatmap_page": "공식 홈페이지로 이동",
     "go_to_beatmap_preview_site": "비트맵 미리보기 사이트로 이동",
-    "catch_not_supported_beatmap_preview.": "osu!catch는 미리보기를 지원하지 않습니다."
+    "catch_not_supported_beatmap_preview.": "osu!catch는 미리보기를 지원하지 않습니다.",
+
+
+    "explicit_warning_title": "부적절한 내용",
+    "explicit_warning_contents": "이 비트맵은 노골적, 폭력적 혹은 혐오감을 들게 하는 내용이 포함되어 있습니다. 그래도 다운로드 하시겠습니까?",
+    "explicit_warning_button_download": "다운로드",
+    "explicit_warning_button_disable_warning": "경고 비활성화",
+    "explicit_warning_button_cancel": "취소"
 }
