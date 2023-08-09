@@ -142,7 +142,8 @@
 
 
     "explicit_warning_title": "부적절한 내용",
-    "explicit_warning_contents": "이 비트맵은 노골적, 폭력적 혹은 혐오감을 들게 하는 내용이 포함되어 있습니다. 그래도 다운로드 하시겠습니까?",
+    "explicit_warning_content1": "이 비트맵은 노골적, 폭력적 혹은 혐오감을 들게 하는 내용이 포함되어 있습니다.",
+    "explicit_warning_content2": "그래도 다운로드 하시겠습니까?",
     "explicit_warning_button_download": "다운로드",
     "explicit_warning_button_disable_warning": "경고 비활성화",
     "explicit_warning_button_cancel": "취소"

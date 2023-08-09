@@ -131,7 +131,7 @@
     "source": "Source",
     "tags": "Tags",
 
-    
+
     "this_beatmap_contains_video": "This beatmap contains video.",
     "this_beatmap_contains_storyboard": "This beatmap contains storyboard.",
     "append_this_beatmap_to_download_list": "Append this beatmap to Download list",
@@ -142,7 +142,8 @@
 
 
     "explicit_warning_title": "Explicit Content",
-    "explicit_warning_contents": "The beatmap contains explicit, offensie, or disturbing content. Would you like to download it anyway?",
+    "explicit_warning_content1": "The beatmap contains explicit, offensie, or disturbing content.",
+    "explicit_warning_content2": "Would you like to download it anyway?",
     "explicit_warning_button_download": "Download",
     "explicit_warning_button_disable_warning": "Disable warning",
     "explicit_warning_button_cancel": "Cancel"
