@@ -4,7 +4,7 @@
     "navbar_documents": "문서",
 
     
-    "footer_nerinyan_powered": "네리냥, 2021 ~ 2023 | ppy의 osu!와는 공식적으로 관련된 것이 없습니다.",
+    "footer_nerinyan_powered": "Nerinyan, 2021 ~ 2023 | ppy의 osu!와는 공식적으로 관련된 것이 없습니다.",
     "footer_dmca": "DMCA (디지털 밀레니엄 저작권법)",
     "footer_documents": "문서",
     "footer_github": "Github",
@@ -18,7 +18,7 @@
     "return_to_main_page": "메인 페이지로 돌아가기",
 
     "oops": "어어...잠시만요!",
-    "search_results_do_not_exist": "고양이들이 열심히 1TB 이상의 맵셋들을 찾았지만 당신이 입력한 키워드의 맵셋을 찾을 수 없었습니다. 😥",
+    "search_results_do_not_exist": "고양이들이 열심히 1TB 이상의 맵셋들을 찾았지만 당신이 입력한 키워드의 비트맵을 찾을 수 없었습니다. 😥",
 
     "loading": "로딩 중...",
     "loaded": "로딩 완료!",
@@ -96,7 +96,7 @@
     "show_beatmap_info": "비트맵 정보 표시",
     "hide_beatmap_info": "바트맵 정보 숨기기",
 
-    "ranked": "랭크",
+    "ranked": "랭크됨",
     "qualified": "퀄리파이",
     "loved": "러브드",
     "pending": "대기 중",
@@ -124,7 +124,7 @@
     "circle_size": "Circle Size",
     "key_count": "키 갯수",
     "hp_drain": "HP Drain",
-    "accuracy": "Overall Difficulty",
+    "accuracy": "Accuracy",
     "approach_rate": "Approach Rate",
     "star_rating": "Star Rating",
     "success_rate": "통과 수치",
