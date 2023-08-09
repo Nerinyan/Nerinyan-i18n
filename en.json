@@ -142,7 +142,7 @@
 
 
     "explicit_warning_title": "Explicit Content",
-    "explicit_warning_content1": "The beatmap contains explicit, offensie, or disturbing content.",
+    "explicit_warning_content1": "The beatmap contains explicit, offensive, or disturbing content.",
     "explicit_warning_content2": "Would you like to download it anyway?",
     "explicit_warning_button_download": "Download",
     "explicit_warning_button_disable_warning": "Disable warning",
