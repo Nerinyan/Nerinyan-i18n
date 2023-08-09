@@ -1,0 +1,142 @@
+{
+    "navbar_beatmaps": "비트맵",
+    "navbar_beatmap_pack": "비트맵 팩",
+    "navbar_documents": "문서",
+
+    
+    "footer_nerinyan_powered": "Nerinyan, 2021 ~ 2023 | ppy의 osu!와는 공식적으로 관련된 것이 없습니다.",
+    "footer_dmca": "DMCA (디지털 밀레니엄 저작권법)",
+    "footer_documents": "문서",
+    "footer_github": "Github",
+    "footer_discord": "디스코드",
+    "footer_info/status": "정보/상태",
+
+
+    "not_found": "404 에러 (파일이 존재하지 않습니다! 🙀)",
+    "not_found_message": "찾으시려는 항목이 존재하지 않습니다. 😿",
+    "not_found_message2": "더 이상 항목이 존재하지 않습니다. 메인 페이지로 돌아가는 것은 어떨까요? 😽",
+    "return_to_main_page": "메인 페이지로 돌아가기",
+
+    "oops": "어어...잠시만요!",
+    "search_results_do_not_exist": "고양이들이 열심히 1TB 이상의 맵셋들을 찾았지만 당신이 입력한 키워드의 비트맵을 찾을 수 없었습니다. 😥",
+
+    "loading": "로딩 중...",
+    "loaded": "로딩 완료!",
+
+    "announcement": "공지",
+
+    "please_wait_to_download": "다운로드 대기 중...",
+    "not_selected_to_download": "다운로드 하도록 선택되지 않음",
+    "zip_system_announcement": "압축 시스템 공지",
+    "zip_system_announcement_message1": "맵셋이 압축되었고, 다운로드되었습니다.",
+    "zip_system_announcement_message2": "맵셋 압축이 진행중입니다! 잠시만 기다려주세요.",
+    "zip_system_announcement_message3": "이 메세지는 {}초 후에 닫힙니다.",
+    "ok": "확인",
+
+    "thank_you_for_using_nerinyan": "Nerinyan을 이용해 주셔서 감사합니다! 🐈",
+    "your_requested_beatmapset_will_download": "선택하신 비트맵이 곧 다운로드 됩니다. 잠시만 기다리시면 리다이렉트 됩니다! 다운로드 시작이 안 되었나요?",
+    "click_here_to_download_manually": "여기를 눌러 다시 시도해 주세요.",
+
+
+    "search": "검색",
+    "search_placeholder": "키워드를 입력해주세요 😺",
+    
+    "mode": "모드",
+    "mode_any": "모두",
+    "mode_osu": "osu!",
+    "mode_taiko": "osu!taiko",
+    "mode_catch": "osu!catch",
+    "mode_mania": "osu!mania",
+
+    "categories": "카테고리",
+    "categories_any": "모두",
+    "categories_has_leaderboard": "리더보드 있음",
+    "categories_ranked": "랭크",
+    "categories_qualified": "퀄리파이",
+    "categories_loved": "러브드",
+    "categories_pending": "대기 중",
+    "categories_wip": "작업 중",
+    "categories_graveyard": "무덤에 감",
+
+    "explicit_content": "노골적인 컨텐츠",
+    "explicit_content_hide": "숨김",
+    "explicit_content_show": "표시",
+
+    "extra": "추가 옵션",
+    "extra_has_video": "비디오 포함",
+    "extra_has_storyboard": "스토리보드 포함",
+
+    "sort_by": "정렬 옵션",
+    "sort_by_title": "제목",
+    "sort_by_artist": "아티스트",
+    "sort_by_difficulty": "난이도",
+    "sort_by_ranked": "랭크 순",
+    "sort_by_updated": "업데이트 순",
+    "sort_by_plays": "플레이 횟수 순",
+    "sort_by_favorites": "즐겨찾기 많은 순",
+
+    "filter_ar": "AR",
+    "filter_cs": "CS",
+    "filter_od": "OD",
+    "filter_hp": "HP",
+    "filter_bpm": "BPM",
+    "filter_star_rating": "스타 레이팅",
+
+    "download_options": "다운로드 옵션",
+    "download_options_direct_download": "리다이렉트 무시",
+    "download_options_no_video": "비디오 미포함",
+    "download_options_no_background": "백그라운드 이미지 삭제",
+    "download_options_no_hitsound": "커스텀 히트사운드 삭제",
+    "download_options_no_storyboard": "스토리보드 제거",
+
+    "zip_download": "압축 후 다운로드 (베타)",
+    "zip_download_selected_download": "선택된 맵셋 압축",
+    "zip_download_all_download": "전체 맵셋 압축",
+
+    "show_beatmap_info": "비트맵 정보 표시",
+    "hide_beatmap_info": "바트맵 정보 숨기기",
+
+    "ranked": "랭크됨",
+    "qualified": "퀄리파이",
+    "loved": "러브드",
+    "pending": "대기 중",
+    "wip": "제작 중",
+    "graveyard": "무덤에 감",
+    "unknown": "분류되지 않음",
+
+    "explict": "부적절한 내용 포함",
+    "favorites_count": "즐겨찾기 갯수",
+    "play_count": "플레이 횟수",
+
+    "download": "다운로드",
+    "bg": "백그라운드 이미지",
+    "download_bg": "백그라운드 이미지 다운로드",
+    "beatmap_page": "비트맵 페이지",
+    "preview": "미리보기",
+    "copy_download_url": "다운로드 링크 클립보드에 복사",
+
+    "mapped_by": "맵 제작자:",
+    "submitted": "제출일:",
+    "total_length": "노래 길이",
+    "bpm": "BPM",
+    "circle_count": "서클 갯수",
+    "slider_count": "슬라이더 갯수",
+    "circle_size": "Circle Size",
+    "key_count": "키 갯수",
+    "hp_drain": "HP Drain",
+    "accuracy": "Accuracy",
+    "approach_rate": "Approach Rate",
+    "star_rating": "Star Rating",
+    "success_rate": "통과 수치",
+    "source": "출처",
+    "tags": "태그",
+
+
+    "this_beatmap_contains_video": "이 비트맵은 영상을 포함하고 있습니다.",
+    "this_beatmap_contains_storyboard": "이 비트맵은 스토리보드를 포함하고 있습니다.",
+    "append_this_beatmap_to_download_list": "다운로드 리스트에 비트맵 추가하기",
+    "download_beatmap_background_image": "비트맵 백그라운드 이미지를 다운로드",
+    "go_to_osu_beatmap_page": "공식 홈페이지로 이동",
+    "go_to_beatmap_preview_site": "비트맵 미리보기 사이트로 이동",
+    "catch_not_supported_beatmap_preview.": "osu!catch는 미리보기를 지원하지 않습니다."
+}
