@@ -15,5 +15,6 @@ The filename should be formatted according to ISO 3166-1 alpha-2.
 You can find the ISO 3166-1 alpha-2 code for language you are contributing here: [https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes](https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 
 # List of currently supported languages
-* English (EN) - [Zeee](https://github.com/zeee2), [Levi](https://github.com/Lekuruu), [Sitoria](https://github.com/Sitoria)
-* German (DE) - [Levi](https://github.com/Lekuruu)
+* English (EN) (100%) - [Zeee](https://github.com/zeee2), [Levi](https://github.com/Lekuruu), [Sitoria](https://github.com/Sitoria)
+* German (DE) (95%) - [Levi](https://github.com/Lekuruu)
+* Korean (KO) (100%) - [Sitoria](https://github.com/Sitoria), [Zeee](https://github.com/zeee2)
