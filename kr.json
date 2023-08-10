@@ -2,6 +2,7 @@
     "navbar_beatmaps": "비트맵",
     "navbar_beatmap_pack": "비트맵 팩",
     "navbar_documents": "문서",
+    "navbar_language": "언어 변경",
 
     
     "footer_nerinyan_powered": "Nerinyan, 2021 ~ 2023 | ppy의 osu!와는 공식적으로 관련된 것이 없습니다.",
@@ -75,6 +76,7 @@
     "sort_by_plays": "플레이 횟수 순",
     "sort_by_favorites": "즐겨찾기 많은 순",
 
+    "filter_song_setup": "노래 설정 (AR, CS 등)",
     "filter_ar": "AR",
     "filter_cs": "CS",
     "filter_od": "OD",

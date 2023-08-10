@@ -2,6 +2,7 @@
     "navbar_beatmaps": "Beatmaps",
     "navbar_beatmap_pack": "Beatmap Packs",
     "navbar_documents": "Documents",
+    "navbar_language": "Change Language",
 
     
     "footer_nerinyan_powered": "NeriNyan powered 2021 ~ 2023 | not affiliated with ppy, osu!",
@@ -75,6 +76,7 @@
     "sort_by_plays": "Plays",
     "sort_by_favorites": "Favorites",
 
+    "filter_song_setup": "Song Setup (AR, CS and more)",
     "filter_ar": "AR",
     "filter_cs": "CS",
     "filter_od": "OD",
