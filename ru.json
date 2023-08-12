@@ -28,9 +28,9 @@
 
     "please_wait_to_download": "Пожалуйста, подождите начала загрузки...",
     "not_selected_to_download": "Не выбрано для загрузки.",
-    "zip_system_announcement": "Система оповещений об арxиваx",
-    "zip_system_announcement_message1": "Сжатые карты были загружены.",
-    "zip_system_announcement_message2": "Начат процесс сжатия, будьте терпеливы.",
+    "zip_system_announcement": "Оповещение об арxиве",
+    "zip_system_announcement_message1": "Арxивированные карты были загружены.",
+    "zip_system_announcement_message2": "Начат процесс арxивации, будьте терпеливы.",
     "zip_system_announcement_message3": "Сообщение исчезнет через {} секунд",
     "zip_system_announcement_close_button": "ок",
 
