@@ -10,16 +10,16 @@
     "footer_documents": "Dokumentation",
     "footer_github": "Github",
     "footer_discord": "Discord",
-    "footer_info/status": "Status",
+    "footer_info/status": "Info/Status",
 
 
     "not_found": "404 Nicht gefunden 🙀",
-    "not_found_message": "Was zum henker suchst du?",
-    "not_found_message2": "ich empfehle dir zur hauptseite zurückzukehren :)",
+    "not_found_message": "Was du gerade versuchst zu finden, existiert nicht. 😿",
+    "not_found_message2": "Hier wurde nichts gefunden. Geh am besten zurück zur Hauptseite. 😽",
     "return_to_main_page": "Zurück zur Hauptseite",
 
     "oops": "Ups...",
-    "search_results_do_not_exist": "Suchergebnisse existieren nicht :(",
+    "search_results_do_not_exist": "Unsere Katzen suchten überall, aber konnten dennoch nichts finden. 😥",
 
     "loading": "Lade...",
     "loaded": "Geladen!",
