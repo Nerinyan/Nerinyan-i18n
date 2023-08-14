@@ -17,5 +17,5 @@ You can find the ISO 3166-1 alpha-2 code for language you are contributing here:
 # List of currently supported languages
 * English (EN) (100%) - [Zeee](https://github.com/zeee2), [Levi](https://github.com/Lekuruu), [Sitoria](https://github.com/Sitoria)
 * German (DE) (100%) - [Levi](https://github.com/Lekuruu)
-* Korean (KR) (100%) - [Sitoria](https://github.com/Sitoria), [Zeee](https://github.com/zeee2)
+* Korean (KR) (100%) - [Sitoria](https://github.com/Sitoria), [Zeee](https://github.com/zeee2), [ilsubyeega](https://github.com/ilsubyeega)
 * Russian (RU) (100%) - [krautzsieberg](https://github.com/krautzsieberg)
