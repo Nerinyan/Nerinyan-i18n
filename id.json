@@ -1,17 +1,17 @@
 {
   "navbar_beatmaps": "Beatmap",
   "navbar_beatmap_pack": "Paket Beatmap",
-  "navbar_documents": "Dokumen",
+  "navbar_documents": "Dokumentasi",
   "navbar_language": "Ganti Bahasa",
 
   "footer_nerinyan_powered": "NeriNyan powered 2021 ~ 2023 | Tidak Berafiliasi Dengan ppy, osu!",
   "footer_dmca": "DMCA",
-  "footer_documents": "Dokumen",
+  "footer_documents": "Dokumentasi",
   "footer_github": "Github",
   "footer_discord": "Discord",
   "footer_info/status": "Info/Status",
 
-  "not_found": "404 Tidak Ditemukan 🙀",
+  "not_found": "404 Konten Tidak Ditemukan 🙀",
   "not_found_message": "Apa yang sedang kamu cari, tidak tersedia di sini 😿",
   "not_found_message2": "Tidak ada apa-apa di sini. Bagaimana kalau kembali ke halaman utama 😽",
   "return_to_main_page": "Kembali ke halaman utama",
