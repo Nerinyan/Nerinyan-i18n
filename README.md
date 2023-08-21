@@ -19,3 +19,9 @@ You can find the ISO 3166-1 alpha-2 code for language you are contributing here:
 * German (DE) (100%) - [Levi](https://github.com/Lekuruu)
 * Korean (KR) (100%) - [Sitoria](https://github.com/Sitoria), [Zeee](https://github.com/zeee2), [ilsubyeega](https://github.com/ilsubyeega)
 * Russian (RU) (100%) - [krautzsieberg](https://github.com/krautzsieberg)
+* Indonesian (ID) (100%) - [CookyNdi](https://github.com/CookyNdi)
+
+# Contributors
+<a href="https://github.com/Nerinyan/Nerinyan-i18n/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Nerinyan/Nerinyan-i18n"/>
+</a>
