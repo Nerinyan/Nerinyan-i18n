@@ -53,7 +53,7 @@
     "categories_any": "모두",
     "categories_has_leaderboard": "리더보드 있음",
     "categories_ranked": "랭크",
-    "categories_qualified": "퀄리파이 됨",
+    "categories_qualified": "퀄리파이",
     "categories_loved": "러브드",
     "categories_pending": "대기 중",
     "categories_wip": "제작 중",
@@ -99,7 +99,7 @@
     "hide_beatmap_info": "바트맵 정보 숨기기",
 
     "ranked": "랭크됨",
-    "qualified": "퀄리파이",
+    "qualified": "퀄리파이 됨",
     "loved": "러브드",
     "pending": "대기 중",
     "wip": "제작 중",
