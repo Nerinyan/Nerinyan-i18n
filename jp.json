@@ -1,0 +1,152 @@
+{
+    "navbar_beatmaps": "ビートマップ",
+    "navbar_beatmap_pack": "ビートマップパック",
+    "navbar_documents": "ドキュメント",
+    "navbar_language": "言語を変更",
+
+    
+    "footer_nerinyan_powered": "NeriNyan powered 2021 ~ 2024 | ppy及びosu!とは関係ありません",
+    "footer_dmca": "DMCA",
+    "footer_documents": "ドキュメント",
+    "footer_github": "Github",
+    "footer_discord": "Discord",
+    "footer_info/status": "情報/ステータス",
+
+
+    "not_found": "404 ページが見つかりませんでした 🙀",
+    "not_found_message": "お探しの物はここにはありません 😿",
+    "not_found_message2": "ここにはもう何もないので、メインページに戻ってみてはいかがですか？ 😽",
+    "return_to_main_page": "メインページに戻る",
+
+    "oops": "おっと...",
+    "search_results_do_not_exist": "猫たちが1TB以上のマップセットを検索しましたが、あなたが入力したキーワードではビートマップは見つかりませんでした。 😥",
+
+    "loading": "読込中...",
+    "loaded": "完了!",
+
+    "announcement": "お知らせ",
+
+    "please_wait_to_download": "ダウンロードまでしばらくお待ち下さい...",
+    "not_selected_to_download": "ビートマップが選択されていません",
+    "zip_system_announcement": "Zipシステムからのお知らせ",
+    "zip_system_announcement_message1": "圧縮されるビートマップがダウンロードされました",
+    "zip_system_announcement_message2": "圧縮中です、しばらくお待ち下さい!",
+    "zip_system_announcement_message3": "このメッセージは {} 秒後に閉じます",
+    "zip_system_announcement_close_button": "ok",
+
+    "thank_you_for_using_nerinyan": "Nerinyanをご利用いただきありがとうございます!🐈",
+    "your_requested_beatmapset_will_download": "選択したビートマップはまもなくダウンロードされます... ダウンロードされませんか?",
+    "click_here_to_download_manually": "ここをクリックして手動でダウンロード",
+
+
+    "search": "検索",
+    "search_placeholder": "キーワードを入力...",
+    
+    "mode": "モード",
+    "mode_any": "全て",
+    "mode_osu": "osu!",
+    "mode_taiko": "osu!taiko",
+    "mode_catch": "osu!catch",
+    "mode_mania": "osu!mania",
+
+    "categories": "カテゴリー",
+    "categories_any": "全て",
+    "categories_has_leaderboard": "リーダーボード",
+    "categories_ranked": "Ranked",
+    "categories_qualified": "Qualified",
+    "categories_loved": "Loved",
+    "categories_pending": "Pending",
+    "categories_wip": "WIP",
+    "categories_graveyard": "Graveyard",
+
+    "explicit_content": "露骨なコンテンツ",
+    "explicit_content_hide": "非表示",
+    "explicit_content_show": "表示",
+
+    "extra": "追加情報",
+    "extra_has_video": "動画あり",
+    "extra_has_storyboard": "ストーリーボードあり",
+
+    "sort_by": "並べ替え",
+    "sort_by_title": "タイトル",
+    "sort_by_artist": "アーティスト",
+    "sort_by_difficulty": "難易度",
+    "sort_by_ranked": "Ranked",
+    "sort_by_updated": "更新日",
+    "sort_by_plays": "プレイ数",
+    "sort_by_favorites": "お気に入り",
+
+    "filter_song_setup": "曲の設定 (AR, CS など)",
+    "filter_ar": "AR",
+    "filter_cs": "CS",
+    "filter_od": "OD",
+    "filter_hp": "HP",
+    "filter_bpm": "BPM",
+    "filter_star_rating": "難易度（★）",
+
+    "download_options": "ダウンロード設定",
+    "download_options_direct_download": "直接ダウンロード",
+    "download_options_no_video": "動画なし",
+    "download_options_no_background": "背景なし",
+    "download_options_no_hitsound": "ヒット音なし",
+    "download_options_no_storyboard": "ストーリーボードなし",
+
+    "zip_download": "Zipダウンロード (ベータ)",
+    "zip_download_selected_download": "選択したビートマップをダウンロード",
+    "zip_download_all_download": "すべてダウンロード",
+
+    "show_beatmap_info": "ビートマップ情報を表示",
+    "hide_beatmap_info": "ビートマップ情報を隠す",
+
+    "ranked": "Ranked",
+    "qualified": "Qualified",
+    "loved": "Loved",
+    "pending": "Pending",
+    "wip": "WIP",
+    "graveyard": "Graveyard",
+    "unknown": "Unknown",
+
+    "explicit": "過激表現を含む",
+    "favorites_count": "お気に入り数",
+    "play_count": "プレイ回数",
+
+    "download": "ダウンロード",
+    "bg": "BG",
+    "download_bg": "背景をダウンロード",
+    "beatmap_page": "ビートマップのページ",
+    "preview": "プレビュー",
+    "copy_download_url": "ダウンロードリンクをコピー",
+
+    "mapped_by": "作者",
+    "submitted": "投稿",
+    "total_length": "長さ",
+    "bpm": "BPM",
+    "circle_count": "サークルの数",
+    "slider_count": "スライダーの数",
+    "circle_size": "サークルサイズ",
+    "key_count": "キー数",
+    "hp_drain": "HPの厳しさ",
+    "accuracy": "精度",
+    "approach_rate": "アプローチ速度",
+    "star_rating": "難易度（★）",
+    "success_rate": "クリア率",
+    "source": "ソース",
+    "tags": "タグ",
+
+
+    "this_beatmap_contains_video": "このビートマップには動画が含まれています。",
+    "this_beatmap_contains_storyboard": "このビートマップにはストーリーボードが含まれています。",
+    "append_this_beatmap_to_download_list": "ビートマップをダウンロードリストに追加",
+    "download_beatmap_background_image": "ビートマップの背景画像をダウンロード",
+    "go_to_osu_beatmap_page": "osu!のビートマップページに行く",
+    "go_to_beatmap_preview_site": "プレビューを開く",
+    "catch_not_supported_beatmap_preview.": "osu!catchはビートマップのプレビューに対応していません。",
+
+
+    "explicit_warning_title": "露骨なコンテンツ",
+    "explicit_warning_content1": "ビートマップには、露骨、暴力的、または不適切な内容が含まれています。",
+    "explicit_warning_content2": "それでもダウンロードしますか？",
+    "explicit_warning_button_download": "ダウンロード",
+    "explicit_warning_button_disable_warning": "警告を無効にする",
+    "explicit_warning_button_cancel": "キャンセル"
+}
