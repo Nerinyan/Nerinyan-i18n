@@ -1,5 +1,5 @@
 {
-    "navbar_beatmaps": "Beatmaps",
+    "navbar_beatmaps": "Beatmap",
     "navbar_beatmap_pack": "Gói Beatmap",
     "navbar_documents": "Documents",
     "navbar_language": "Chuyển ngôn ngữ",
@@ -15,7 +15,7 @@
 
     "not_found": "404 Not Found 🙀",
     "not_found_message": "Thứ mà bạn tìm kiếm không có ở đây rồi 😿",
-    "not_found_message2": "Chẳng có gì ở đằng trước đâu, hay là về trang chủ đi? 😽",
+    "not_found_message2": "Chẳng có gì nữa đâu, hay là về trang chủ đi? 😽",
     "return_to_main_page": "Quay trở về trang chủ",
 
     "oops": "Oops...",
@@ -26,15 +26,44 @@
 
     "announcement": "Thông báo",
 
-    "please_wait_to_download": "Hãy chờ một chútchút...",
-    "not_selected_to_download": "Not Seleceted to download",
-    "zip_system_announcement": "Zip System Announcement",
+    "please_wait_to_download": "Hãy chờ một chút...",
+    "not_selected_to_download": "Hãy chọn mục để download đi",
+    "zip_system_announcement": "Nerinizip",
     "zip_system_announcement_message1": "Các beatmap cần nén đã được tải xuống",
     "zip_system_announcement_message2": "Đang nén Beatmap, chờ xíu đi...",
     "zip_system_announcement_message3": "Cửa sổ này sẽ được đóng trong {} giây",
     "zip_system_announcement_close_button": "ok",
 
-    "tThêm",
+    "thank_you_for_using_nerinyan": Cảm ơn vì đã sử dụng NeriNyan!🐈",
+    "your_requested_beatmapset_will_download": "Beatmap đang được tải xuống...",
+    "click_here_to_download_manually": "Bấm vào đây nếu như beatmap chưa được tải xuống",
+
+
+    "search": "Tìm",
+    "search_placeholder": "Tìm gì đó đi...",
+    
+    "mode": "Chế độ",
+    "mode_any": "Tất cả",
+    "mode_osu": "osu!",
+    "mode_taiko": "osu!taiko",
+    "mode_catch": "osu!catch",
+    "mode_mania": "osu!mania",
+
+    "categories": "Danh mục",
+    "categories_any": "Tất cả",
+    "categories_has_leaderboard": "Có bảng xếp hạng",
+    "categories_ranked": "Được xếp hạng",
+    "categories_qualified": "Đủ tư cách",
+    "categories_loved": "Được yêu thích",
+    "categories_pending": "Đang chờ",
+    "categories_wip": "WIP",
+    "categories_graveyard": "Graveyard",
+
+    "explicit_content": "Nôi dung không phù hợp",
+    "explicit_content_hide": "Ẩn",
+    "explicit_content_show": "Hiện",
+
+    "extra": "Extra",
     "extra_has_video": "Có Video",
     "extra_has_storyboard": "Có Storyboard",
 
@@ -52,6 +81,26 @@
     "filter_cs": "CS",
     "filter_od": "OD",
     "filter_hp": "HP",
+    "filter_bpm": "BPM",
+    "filter_star_rating": "Sao",
+
+    "download_options": "Tùy chọn tải xuống ",
+    "download_options_direct_download": "Tải xuống full",
+    "download_options_no_video": "Không Video",
+    "download_options_no_background": "Không Background",
+    "download_options_no_hitsound": "Không Hitsound",
+    "download_options_no_storyboard": "Không Storyboard",
+
+    "zip_download": "Zip Download (beta)",
+    "zip_download_selected_download": "Tải beatmap đã chọn",
+    "zip_download_all_download": "Tải tất cả",
+
+    "show_beatmap_info": "Hiện thông tin Beatmap",
+    "hide_beatmap_info": "Ẩn thông tin beatmap",
+
+    "ranked": "Được xếp hạng",
+    "qualified": "Đủ tư cách",
+    "loved": "Loved",
     "pending": "Đang chờ",
     "wip": "WIP",
     "graveyard": "Graveyard",
@@ -68,8 +117,8 @@
     "preview": "Xem trước",
     "copy_download_url": "Sao chép đường link tải xuống",
 
-    "mapped_by": "được tạo bởi",
-    "submitted": "được đăng vào ",
+    "mapped_by": "Được tạo bởi",
+    "submitted": "Được đăng vào ",
     "total_length": "Độ dài",
     "bpm": "BPM",
     "circle_count": "Số nốt",
@@ -80,7 +129,7 @@
     "accuracy": "Độ chính xác",
     "approach_rate": "Tốc độ tiếp cận",
     "star_rating": "Độ khó",
-    "success_rate": "Tỉ lệ thành công"
+    "success_rate": "Tỉ lệ thành công",
     "source": "Nguồn",
     "tags": "Tag",
 
