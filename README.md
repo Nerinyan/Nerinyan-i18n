@@ -22,6 +22,7 @@ You can find the ISO 3166-1 alpha-2 code for language you are contributing here:
 * Indonesian (ID) (100%) - [CookyNdi](https://github.com/CookyNdi)
 * Japanese (JP) (100%) - [yakisova41](https://github.com/yakisova41)
 * Vietnamese (VN) (100%) - [lieuchieu](https://github.com/lieucheiu)
+* Turkish (TR) (100%) - [otistikoglan](https://github.com/otistikoglan)
 
 # Contributors
 <a href="https://github.com/Nerinyan/Nerinyan-i18n/graphs/contributors">
