@@ -1,0 +1,152 @@
+{
+    "navbar_beatmaps": "Mapas",
+    "navbar_beatmap_pack": "Paquetes de mapas",
+    "navbar_documents": "Documentación",
+    "navbar_language": "Cambiar idioma",
+
+    
+    "footer_nerinyan_powered": "NeriNyan powered 2021 ~ 2024 | no afiliado con ppy, osu!",
+    "footer_dmca": "DMCA",
+    "footer_documents": "Documentación",
+    "footer_github": "Github",
+    "footer_discord": "Discord",
+    "footer_info/status": "Info/Estado",
+
+
+    "not_found": "404 No encontrado 🙀",
+    "not_found_message": "Lo que intentas buscar no existe 😿",
+    "not_found_message2": "No se encontro nada aquí. Prueba volver al Inicio 😽",
+    "return_to_main_page": "Volver al Inicio",
+
+    "oops": "Oops...",
+    "search_results_do_not_exist": "Nuestros michis buscaron por todas partes sin éxito 😥",
+
+    "loading": "Cargando...",
+    "loaded": "Listo!",
+
+    "announcement": "Anuncio",
+
+    "please_wait_to_download": "Espere para completar la descarga...",
+    "not_selected_to_download": "No se ha seleccionado nada para descargar",
+    "zip_system_announcement": "Anuncio del sistema de compresión",
+    "zip_system_announcement_message1": "Los mapas comprimidos se han descargado.",
+    "zip_system_announcement_message2": "La compresión esta en proceso, se paciente!",
+    "zip_system_announcement_message3": "Este mensaje se cerrera automaticamante en {} segundos",
+    "zip_system_announcement_close_button": "ok",
+
+    "thank_you_for_using_nerinyan": "Gracias por utilizar Nerinyan!🐈",
+    "your_requested_beatmapset_will_download": "La descarga del mapa se realizara en breve... Descarga fallida?",
+    "click_here_to_download_manually": "Presiona aquí para descargar manualmente.",
+
+
+    "search": "Buscar",
+    "search_placeholder": "Buscar...",
+    
+    "mode": "Modo",
+    "mode_any": "Todos",
+    "mode_osu": "osu!",
+    "mode_taiko": "osu!taiko",
+    "mode_catch": "osu!catch",
+    "mode_mania": "osu!mania",
+
+    "categories": "Categorías",
+    "categories_any": "Todas",
+    "categories_has_leaderboard": "Con Tabla de Clasificación",
+    "categories_ranked": "Clasificado",
+    "categories_qualified": "Calificado",
+    "categories_loved": "Amado",
+    "categories_pending": "Pendiente",
+    "categories_wip": "En progreso",
+    "categories_graveyard": "Abandonado",
+
+    "explicit_content": "Contenido explícito",
+    "explicit_content_hide": "Ocultar",
+    "explicit_content_show": "Mostrar",
+
+    "extra": "Adicional",
+    "extra_has_video": "Tiene Vídeo",
+    "extra_has_storyboard": "Tiene Storyboard",
+
+    "sort_by": "Ordenar por",
+    "sort_by_title": "Título",
+    "sort_by_artist": "Artista",
+    "sort_by_difficulty": "Dificultad",
+    "sort_by_ranked": "Clasificado",
+    "sort_by_updated": "Actualizado",
+    "sort_by_plays": "Veces jugado",
+    "sort_by_favorites": "Favoritos",
+
+    "filter_song_setup": "Ajustes de la canción (AR, CS and más)",
+    "filter_ar": "AR",
+    "filter_cs": "CS",
+    "filter_od": "OD",
+    "filter_hp": "HP",
+    "filter_bpm": "BPM",
+    "filter_star_rating": "Estrellas",
+
+    "download_options": "Opciones de descarga",
+    "download_options_direct_download": "Descarga directa",
+    "download_options_no_video": "Sin Video",
+    "download_options_no_background": "Sin Fondo",
+    "download_options_no_hitsound": "Sin Hitsounds",
+    "download_options_no_storyboard": "Sin Storyboard",
+
+    "zip_download": "Descarga ZIP (beta)",
+    "zip_download_selected_download": "Descargar seleccionados",
+    "zip_download_all_download": "Descargar todo",
+
+    "show_beatmap_info": "Mostrar información del mapa",
+    "hide_beatmap_info": "Ocultar información del mapa",
+
+    "ranked": "Clasificado",
+    "qualified": "Calificado",
+    "loved": "Amado",
+    "pending": "Pendiente",
+    "wip": "En progreso",
+    "graveyard": "Abandonado",
+    "unknown": "Desconocido",
+
+    "explicit": "EXPLÍCITO",
+    "favorites_count": "Cant. de Favoritos",
+    "play_count": "Veces jugado",
+
+    "download": "Descargar",
+    "bg": "BG",
+    "download_bg": "Descargar fondo",
+    "beatmap_page": "Página del mapa",
+    "preview": "Vista previa",
+    "copy_download_url": "Copiar URL de descarga",
+
+    "mapped_by": "Creado por",
+    "submitted": "Enviado",
+    "total_length": "Duración",	
+    "bpm": "BPM",
+    "circle_count": "Círculos",
+    "slider_count": "Deslizadores",
+    "circle_size": "Circle Size",
+    "key_count": "Key Count",
+    "hp_drain": "HP Drain",
+    "accuracy": "Precisión",
+    "approach_rate": "Approach Rate",
+    "star_rating": "Estrellas",
+    "success_rate": "Tasa de éxito",
+    "source": "Origen",
+    "tags": "Tags",
+
+
+    "this_beatmap_contains_video": "Mapa con Vídeo.",
+    "this_beatmap_contains_storyboard": "Mapa con Storyboard.",
+    "append_this_beatmap_to_download_list": "Añadir este mapa a la lista de descargas",
+    "download_beatmap_background_image": "Descargar imagen de fondo del mapa",
+    "go_to_osu_beatmap_page": "Ir a la página del mapa en osu!",
+    "go_to_beatmap_preview_site": "Ir al sitio de vista previa del mapa",
+    "catch_not_supported_beatmap_preview.": "osu!catch no es compatible para la vista previa.",
+
+
+    "explicit_warning_title": "Contenido explícito",
+    "explicit_warning_content1": "Este mapa contiene contenido ofensivo, explícito o sexual.",
+    "explicit_warning_content2": "¿Desea descargarlo de todos modos?",
+    "explicit_warning_button_download": "Descargar",
+    "explicit_warning_button_disable_warning": "Desactivar advertencia",
+    "explicit_warning_button_cancel": "Cancelar"
+}
