@@ -15,6 +15,7 @@ The filename should be formatted according to ISO 3166-1 alpha-2.
 You can find the ISO 3166-1 alpha-2 code for language you are contributing here: [https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes](https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 
 # List of currently supported languages
+#### We extend our heartfelt gratitude to everyone who has contributed to the language support of NeriNyan. 🙏
 * English (EN) (100%) - [Zeee](https://github.com/zeee2), [Levi](https://github.com/Lekuruu), [Sitoria](https://github.com/Sitoria)
 * German (DE) (100%) - [Levi](https://github.com/Lekuruu)
 * Korean (KR) (100%) - [Sitoria](https://github.com/Sitoria), [Zeee](https://github.com/zeee2), [ilsubyeega](https://github.com/ilsubyeega)
@@ -23,6 +24,7 @@ You can find the ISO 3166-1 alpha-2 code for language you are contributing here:
 * Japanese (JP) (100%) - [yakisova41](https://github.com/yakisova41)
 * Vietnamese (VN) (100%) - [lieuchieu](https://github.com/lieucheiu)
 * Turkish (TR) (100%) - [otistikoglan](https://github.com/otistikoglan)
+* Spanish (ES) (100%) - [JaimeBustos2000](https://github.com/JaimeBustos2000)
 
 # Contributors
 <a href="https://github.com/Nerinyan/Nerinyan-i18n/graphs/contributors">
