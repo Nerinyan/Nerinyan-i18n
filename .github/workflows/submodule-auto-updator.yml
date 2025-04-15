@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  update-submodule:
+  update-submodules:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Nerinyan-WEB
@@ -16,7 +16,14 @@ jobs:
         token: ${{ secrets.PAT }}
         path: Nerinyan-WEB
 
-    - name: Update Submodule
+    - name: Checkout nerinyan-webv2
+      uses: actions/checkout@v2
+      with:
+        repository: 'Nerinyan/nerinyan-webv2'
+        token: ${{ secrets.PAT }}
+        path: nerinyan-webv2
+
+    - name: Update submodules in Nerinyan-WEB
       run: |
         cd Nerinyan-WEB
         git submodule init
@@ -24,5 +31,25 @@ jobs:
         git config user.name 'GitHub Action'
         git config user.email 'action@github.com'
         git add src/i18n
-        git commit -m "Update Nerinyan-i18n submodule"
-        git push
+        if git diff --cached --quiet; then
+          echo "No changes to commit in Nerinyan-WEB"
+        else
+          git commit -m "Update i18n submodule"
+          git push
+        fi
+        cd ..
+
+    - name: Update submodules in nerinyan-webv2
+      run: |
+        cd nerinyan-webv2
+        git submodule init
+        git submodule update --remote
+        git config user.name 'GitHub Action'
+        git config user.email 'action@github.com'
+        git add i18n
+        if git diff --cached --quiet; then
+          echo "No changes to commit in nerinyan-webv2"
+        else
+          git commit -m "Update i18n submodule"
+          git push
+        fi
