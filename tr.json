@@ -6,7 +6,7 @@
 	"navbar_documents": "Belgeler",
 	"navbar_language": "Dil Değiştir",
 
-	"footer_nerinyan_powered": "NeriNyan tarafından desteklenmektedir 2021 ~ 2024 | ppy, osu ile bağlantılı değil!",
+	"footer_nerinyan_powered": "NeriNyan tarafından desteklenmektedir 2021 ~ 2025 | ppy, osu ile bağlantılı değil!",
 	"footer_dmca": "DMCA",
 	"footer_documents": "Belgeler",
 	"footer_github": "Github",
@@ -94,7 +94,6 @@
 
 	"change": "Değiştirmek",
 	"select": "Seçmek",
-
 
 	"zip_download": "Arşivlenmiş şekilde indirmek (beta)",
 	"zip_download_selected_download": "Seçilenleri indir",

@@ -6,7 +6,7 @@
 	"navbar_documents": "Documents",
 	"navbar_language": "Chuyển ngôn ngữ",
 
-	"footer_nerinyan_powered": "NeriNyan 2021 ~ 2024 | không được liên kết với with ppy, osu!",
+	"footer_nerinyan_powered": "NeriNyan 2021 ~ 2025 | không được liên kết với with ppy, osu!",
 	"footer_dmca": "DMCA",
 	"footer_documents": "Documents",
 	"footer_github": "Github",
@@ -94,7 +94,6 @@
 
 	"change": "Thay đổi",
 	"select": "Lựa chọn",
-
 
 	"zip_download": "Zip Download (beta)",
 	"zip_download_selected_download": "Tải beatmap đã chọn",

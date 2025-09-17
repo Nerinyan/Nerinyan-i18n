@@ -6,7 +6,7 @@
 	"navbar_documents": "Документация",
 	"navbar_language": "Сменить язык",
 
-	"footer_nerinyan_powered": "NeriNyan powered 2021 ~ 2024 | not affiliated with ppy, osu!",
+	"footer_nerinyan_powered": "NeriNyan powered 2021 ~ 2025 | not affiliated with ppy, osu!",
 	"footer_dmca": "DMCA",
 	"footer_documents": "Документация",
 	"footer_github": "Github",
@@ -94,7 +94,6 @@
 
 	"change": "Изменить",
 	"select": "Выбирать",
-
 
 	"zip_download": "Загрузка в арxиве (в разработке)",
 	"zip_download_selected_download": "Загрузить выбранное",

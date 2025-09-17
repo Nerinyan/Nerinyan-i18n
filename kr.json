@@ -6,7 +6,7 @@
 	"navbar_documents": "문서",
 	"navbar_language": "언어 변경",
 
-	"footer_nerinyan_powered": "Nerinyan, 2021 ~ 2024 | ppy의 osu!와는 공식적으로 관련된 것이 없습니다.",
+	"footer_nerinyan_powered": "Nerinyan, 2021 ~ 2025 | ppy의 osu!와는 공식적으로 관련된 것이 없습니다.",
 	"footer_dmca": "DMCA (디지털 밀레니엄 저작권법)",
 	"footer_documents": "문서",
 	"footer_github": "Github",
@@ -94,7 +94,6 @@
 
 	"change": "변경",
 	"select": "선택",
-
 
 	"zip_download": "압축 후 다운로드 (베타)",
 	"zip_download_selected_download": "선택된 맵셋 압축",
