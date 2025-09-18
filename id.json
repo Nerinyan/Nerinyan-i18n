@@ -90,10 +90,10 @@
 	"download_options_no_background": "Tanpa Background",
 	"download_options_no_hitsound": "Tanpa Hitsound",
 	"download_options_no_storyboard": "Tanpa Storyboard",
-    "download_options_custom_bg": "BG Kustom",
+	"download_options_custom_bg": "BG Kustom",
 
-    "change": "Ubah",
-    "select": "Pilih",
+	"change": "Ubah",
+	"select": "Pilih",
 
 	"zip_download": "Unduhan Zip (beta)",
 	"zip_download_selected_download": "Unduh Yang Telah Ditandai",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "Apakah kamu tetap ingin mengunduh beatmap ini?",
 	"explicit_warning_button_download": "Unduh",
 	"explicit_warning_button_disable_warning": "Nonaktifkan Peringatan",
-	"explicit_warning_button_cancel": "Batalkan"
+	"explicit_warning_button_cancel": "Batalkan",
+
+	"custom_background": "Latar Belakang Kustom",
+	
+	"beatmapDetailStatistics": "Statistik",
+	"beatmapDetailDescription": "Deskripsi",
+	"beatmapDetailTagsAndInformation": "Tag & Informasi",
+	"beatmapDetailMaxCombo": "Kombo Maks",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "Genre",
+	"copied": "Tersalin!",
+	"language": "Bahasa",
+	"removeFromZip": "Hapus dari ZIP",
+	"addToZip": "Tambah ke ZIP"
 }

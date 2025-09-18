@@ -90,10 +90,10 @@
 	"download_options_no_background": "Sin Fondo",
 	"download_options_no_hitsound": "Sin Hitsounds",
 	"download_options_no_storyboard": "Sin Storyboard",
-    "download_options_custom_bg": "Fondo de pantalla personalizado",
+	"download_options_custom_bg": "Fondo de pantalla personalizado",
 
-    "change": "Cambiar",
-    "select": "Seleccionar",
+	"change": "Cambiar",
+	"select": "Seleccionar",
 
 	"zip_download": "Descarga ZIP (beta)",
 	"zip_download_selected_download": "Descargar seleccionados",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "¿Desea descargarlo de todos modos?",
 	"explicit_warning_button_download": "Descargar",
 	"explicit_warning_button_disable_warning": "Desactivar advertencia",
-	"explicit_warning_button_cancel": "Cancelar"
+	"explicit_warning_button_cancel": "Cancelar",
+
+	"custom_background": "Fondo personalizado",
+
+	"beatmapDetailStatistics": "Estadísticas",
+	"beatmapDetailDescription": "Descripción",
+	"beatmapDetailTagsAndInformation": "Etiquetas e Información",
+	"beatmapDetailMaxCombo": "Combo Máximo",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "Género",
+	"copied": "¡Copiado!",
+	"language": "Idioma",
+	"removeFromZip": "Eliminar de ZIP",
+	"addToZip": "Añadir a ZIP"
 }

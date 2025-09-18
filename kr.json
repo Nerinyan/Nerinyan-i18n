@@ -89,7 +89,7 @@
 	"download_options_no_video": "비디오 미포함",
 	"download_options_no_background": "백그라운드 이미지 삭제",
 	"download_options_no_hitsound": "커스텀 히트사운드 삭제",
-	    "download_options_no_storyboard": "스토리보드 없음",
+	"download_options_no_storyboard": "스토리보드 없음",
 	"download_options_custom_bg": "사용자 지정 배경",
 
 	"change": "변경",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "그래도 다운로드 하시겠습니까?",
 	"explicit_warning_button_download": "다운로드",
 	"explicit_warning_button_disable_warning": "경고 비활성화",
-	"explicit_warning_button_cancel": "취소"
+	"explicit_warning_button_cancel": "취소",
+
+	"custom_background": "커스텀 백그라운드 이미지",
+
+	"beatmapDetailStatistics": "통계",
+	"beatmapDetailDescription": "설명",
+	"beatmapDetailTagsAndInformation": "태그 및 정보",
+	"beatmapDetailMaxCombo": "최대 콤보",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "장르",
+	"copied": "복사되었습니다!",
+	"language": "언어",
+	"removeFromZip": "ZIP에서 제거",
+	"addToZip": "ZIP에 추가"
 }

@@ -89,7 +89,7 @@
 	"download_options_no_video": "Videosuz indir",
 	"download_options_no_background": "Arkaplansız indir",
 	"download_options_no_hitsound": "Hitsoundlar olmadan indir",
-	    "download_options_no_storyboard": "Film şeridi yok",
+	"download_options_no_storyboard": "Film şeridi yok",
 	"download_options_custom_bg": "Özel Arka Plan",
 
 	"change": "Değiştirmek",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "Yine de indirmek ister misiniz?",
 	"explicit_warning_button_download": "İndir",
 	"explicit_warning_button_disable_warning": "Uyarıyı devre dışı bırak",
-	"explicit_warning_button_cancel": "İptal"
+	"explicit_warning_button_cancel": "İptal",
+
+	"custom_background": "Özel Arka Plan",
+
+	"beatmapDetailStatistics": "İstatistikler",
+	"beatmapDetailDescription": "Açıklama",
+	"beatmapDetailTagsAndInformation": "Etiketler ve Bilgiler",
+	"beatmapDetailMaxCombo": "Maksimum Kombo",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "Tür",
+	"copied": "Kopyalandı!",
+	"language": "Dil",
+	"removeFromZip": "ZIP'ten kaldır",
+	"addToZip": "ZIP'e ekle"
 }

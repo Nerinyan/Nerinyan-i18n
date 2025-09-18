@@ -90,10 +90,10 @@
 	"download_options_no_background": "背景なし",
 	"download_options_no_hitsound": "ヒット音なし",
 	"download_options_no_storyboard": "ストーリーボードなし",
-    "download_options_custom_bg": "カスタムBG",
+	"download_options_custom_bg": "カスタムBG",
 
-    "change": "変更",
-    "select": "選択",
+	"change": "変更",
+	"select": "選択",
 
 	"zip_download": "Zipダウンロード (ベータ)",
 	"zip_download_selected_download": "選択したビートマップをダウンロード",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "それでもダウンロードしますか？",
 	"explicit_warning_button_download": "ダウンロード",
 	"explicit_warning_button_disable_warning": "警告を無効にする",
-	"explicit_warning_button_cancel": "キャンセル"
+	"explicit_warning_button_cancel": "キャンセル",
+
+	"custom_background": "カスタム背景",
+
+	"beatmapDetailStatistics": "統計",
+	"beatmapDetailDescription": "説明",
+	"beatmapDetailTagsAndInformation": "タグと情報",
+	"beatmapDetailMaxCombo": "最大コンボ",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "ジャンル",
+	"copied": "コピーしました！",
+	"language": "言語",
+	"removeFromZip": "ZIPから削除",
+	"addToZip": "ZIPに追加"
 }

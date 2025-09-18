@@ -89,7 +89,7 @@
 	"download_options_no_video": "Không Video",
 	"download_options_no_background": "Không Background",
 	"download_options_no_hitsound": "Không Hitsound",
-	    "download_options_no_storyboard": "Không có bảng phân cảnh",
+	"download_options_no_storyboard": "Không có bảng phân cảnh",
 	"download_options_custom_bg": "BG tùy chỉnh",
 
 	"change": "Thay đổi",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "Bạn vẫn muốn tải xuống chứ?",
 	"explicit_warning_button_download": "Tải xuống",
 	"explicit_warning_button_disable_warning": "Ẩn cảnh báo",
-	"explicit_warning_button_cancel": "Hủy"
+	"explicit_warning_button_cancel": "Hủy",
+
+	"custom_background": "Hình nền tùy chỉnh",
+
+	"beatmapDetailStatistics": "Thống kê",
+	"beatmapDetailDescription": "Mô tả",
+	"beatmapDetailTagsAndInformation": "Thẻ và thông tin",
+	"beatmapDetailMaxCombo": "Combo tối đa",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "Thể loại",
+	"copied": "Đã sao chép!",
+	"language": "Ngôn ngữ",
+	"removeFromZip": "Xóa khỏi ZIP",
+	"addToZip": "Thêm vào ZIP"
 }

@@ -89,7 +89,7 @@
 	"download_options_no_video": "No Video",
 	"download_options_no_background": "No Background",
 	"download_options_no_hitsound": "No Hitsound",
-	    "download_options_no_storyboard": "No Storyboard",
+	"download_options_no_storyboard": "No Storyboard",
 	"download_options_custom_bg": "Custom BG",
 
 	"change": "Change",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "Would you like to download it anyway?",
 	"explicit_warning_button_download": "Download",
 	"explicit_warning_button_disable_warning": "Disable warning",
-	"explicit_warning_button_cancel": "Cancel"
+	"explicit_warning_button_cancel": "Cancel",
+	
+	"custom_background": "Custom Backgroud",
+
+	"beatmapDetailStatistics": "Statistics",
+	"beatmapDetailDescription": "Description",
+	"beatmapDetailTagsAndInformation": "Tags & Information",
+	"beatmapDetailMaxCombo": "Max Combo",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "Genre",
+	"copied": "Copied!",
+	"language": "Language",
+	"removeFromZip": "Remove from ZIP",
+	"addToZip": "Add to ZIP"
 }

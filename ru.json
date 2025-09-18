@@ -89,7 +89,7 @@
 	"download_options_no_video": "Без видео",
 	"download_options_no_background": "Без фона",
 	"download_options_no_hitsound": "Без xитсаундов",
-	    "download_options_no_storyboard": "Без сториборда",
+	"download_options_no_storyboard": "Без сториборда",
 	"download_options_custom_bg": "Пользовательский фон",
 
 	"change": "Изменить",
@@ -150,5 +150,18 @@
 	"explicit_warning_content2": "Скачать в любом случае?",
 	"explicit_warning_button_download": "Скачать",
 	"explicit_warning_button_disable_warning": "Отключить предупреждение",
-	"explicit_warning_button_cancel": "Отмена"
+	"explicit_warning_button_cancel": "Отмена",
+
+	"custom_background": "Пользовательский фон",
+
+	"beatmapDetailStatistics": "Статистика",
+	"beatmapDetailDescription": "Описание",
+	"beatmapDetailTagsAndInformation": "Теги и информация",
+	"beatmapDetailMaxCombo": "Макс. комбо",
+	"beatmapDetailKeyValue": "{value} KEY",
+	"genre": "Жанр",
+	"copied": "Скопировано!",
+	"language": "Язык",
+	"removeFromZip": "Удалить из ZIP",
+	"addToZip": "Добавить в ZIP"
 }
