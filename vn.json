@@ -163,5 +163,6 @@
 	"copied": "Đã sao chép!",
 	"language": "Ngôn ngữ",
 	"removeFromZip": "Xóa khỏi ZIP",
-	"addToZip": "Thêm vào ZIP"
+	"addToZip": "Thêm vào ZIP",
+	"showMoreButton": "Hiển thị thêm"
 }

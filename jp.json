@@ -163,5 +163,6 @@
 	"copied": "コピーしました！",
 	"language": "言語",
 	"removeFromZip": "ZIPから削除",
-	"addToZip": "ZIPに追加"
+	"addToZip": "ZIPに追加",
+	"showMoreButton": "もっと見る"
 }

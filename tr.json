@@ -163,5 +163,6 @@
 	"copied": "Kopyalandı!",
 	"language": "Dil",
 	"removeFromZip": "ZIP'ten kaldır",
-	"addToZip": "ZIP'e ekle"
+	"addToZip": "ZIP'e ekle",
+	"showMoreButton": "Daha fazla göster"
 }

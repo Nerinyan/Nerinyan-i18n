@@ -163,5 +163,6 @@
 	"copied": "복사되었습니다!",
 	"language": "언어",
 	"removeFromZip": "ZIP에서 제거",
-	"addToZip": "ZIP에 추가"
+	"addToZip": "ZIP에 추가",
+	"showMoreButton": "더보기"
 }

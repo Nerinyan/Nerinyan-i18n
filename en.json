@@ -163,5 +163,6 @@
 	"copied": "Copied!",
 	"language": "Language",
 	"removeFromZip": "Remove from ZIP",
-	"addToZip": "Add to ZIP"
+	"addToZip": "Add to ZIP",
+	"showMoreButton": "Show more"
 }

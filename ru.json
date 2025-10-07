@@ -163,5 +163,6 @@
 	"copied": "Скопировано!",
 	"language": "Язык",
 	"removeFromZip": "Удалить из ZIP",
-	"addToZip": "Добавить в ZIP"
+	"addToZip": "Добавить в ZIP",
+	"showMoreButton": "Показать ещё"
 }
