@@ -164,5 +164,11 @@
 	"language": "Dil",
 	"removeFromZip": "ZIP'ten kaldır",
 	"addToZip": "ZIP'e ekle",
-	"showMoreButton": "Daha fazla göster"
+	"showMoreButton": "Daha fazla göster",
+	"searchResultsTryDifferent": "Farklı arama terimleri veya filtreler deneyin",
+	"beatmapDetailRatings": "Puanlar",
+	"beatmapDetailRankedDate": "Ranked",
+	"beatmapDetailSubmittedDate": "Gönderildi",
+	"beatmapDetailHitLength": "Hit uzunluğu",
+	"clickToViewBeatmapDetails": "Beatmap detaylarını görmek için tıklayın"
 }

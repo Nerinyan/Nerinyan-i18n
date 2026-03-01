@@ -164,5 +164,11 @@
 	"language": "Язык",
 	"removeFromZip": "Удалить из ZIP",
 	"addToZip": "Добавить в ZIP",
-	"showMoreButton": "Показать ещё"
+	"showMoreButton": "Показать ещё",
+	"searchResultsTryDifferent": "Попробуйте другие поисковые запросы или фильтры",
+	"beatmapDetailRatings": "Рейтинги",
+	"beatmapDetailRankedDate": "Ранк",
+	"beatmapDetailSubmittedDate": "Отправлено",
+	"beatmapDetailHitLength": "Длина хита",
+	"clickToViewBeatmapDetails": "Нажмите, чтобы просмотреть детали битмапа"
 }

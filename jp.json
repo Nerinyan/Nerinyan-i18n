@@ -164,5 +164,11 @@
 	"language": "言語",
 	"removeFromZip": "ZIPから削除",
 	"addToZip": "ZIPに追加",
-	"showMoreButton": "もっと見る"
+	"showMoreButton": "もっと見る",
+	"searchResultsTryDifferent": "別の検索語やフィルターをお試しください",
+	"beatmapDetailRatings": "評価",
+	"beatmapDetailRankedDate": "ランク日",
+	"beatmapDetailSubmittedDate": "提出日",
+	"beatmapDetailHitLength": "ヒット長",
+	"clickToViewBeatmapDetails": "クリックしてビートマップ詳細を表示"
 }

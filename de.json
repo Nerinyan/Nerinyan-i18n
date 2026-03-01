@@ -164,5 +164,11 @@
 	"language": "Sprache",
 	"removeFromZip": "Aus ZIP entfernen",
 	"addToZip": "Zu ZIP hinzufügen",
-	"showMoreButton": "Mehr anzeigen"
+	"showMoreButton": "Mehr anzeigen",
+	"searchResultsTryDifferent": "Versuche andere Suchbegriffe oder Filter",
+	"beatmapDetailRatings": "Bewertungen",
+	"beatmapDetailRankedDate": "Ranked",
+	"beatmapDetailSubmittedDate": "Eingereicht",
+	"beatmapDetailHitLength": "Hit-Länge",
+	"clickToViewBeatmapDetails": "Klicken für Beatmap-Details"
 }

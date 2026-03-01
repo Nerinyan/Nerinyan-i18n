@@ -164,5 +164,11 @@
 	"language": "Ngôn ngữ",
 	"removeFromZip": "Xóa khỏi ZIP",
 	"addToZip": "Thêm vào ZIP",
-	"showMoreButton": "Hiển thị thêm"
+	"showMoreButton": "Hiển thị thêm",
+	"searchResultsTryDifferent": "Thử các từ khóa hoặc bộ lọc khác",
+	"beatmapDetailRatings": "Đánh giá",
+	"beatmapDetailRankedDate": "Ranked",
+	"beatmapDetailSubmittedDate": "Đã gửi",
+	"beatmapDetailHitLength": "Độ dài hit",
+	"clickToViewBeatmapDetails": "Nhấp để xem chi tiết beatmap"
 }

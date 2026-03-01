@@ -164,5 +164,11 @@
 	"language": "언어",
 	"removeFromZip": "ZIP에서 제거",
 	"addToZip": "ZIP에 추가",
-	"showMoreButton": "더보기"
+	"showMoreButton": "더보기",
+	"searchResultsTryDifferent": "다른 검색어나 필터를 시도해 보세요",
+	"beatmapDetailRatings": "평점",
+	"beatmapDetailRankedDate": "랭크일",
+	"beatmapDetailSubmittedDate": "제출일",
+	"beatmapDetailHitLength": "히트 길이",
+	"clickToViewBeatmapDetails": "클릭하여 비트맵 상세 보기"
 }
