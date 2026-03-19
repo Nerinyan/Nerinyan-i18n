@@ -20,7 +20,7 @@ You can find the ISO 3166-1 alpha-2 code for language you are contributing here:
 
 #### We extend our heartfelt gratitude to everyone who has contributed to the language support of NeriNyan. 🙏
 
-- English (EN) (100%) - [Zeee](https://github.com/zeee2), [Levi](https://github.com/Lekuruu), [Sitoria](https://github.com/Sitoria)
+- English (EN) (100%) - [Zeee](https://github.com/zeee2), [Levi](https://github.com/Lekuruu), [Sitoria](https://github.com/Sitoria), [YumeMuzi](https://github.com/YumeMuzi)
 - German (DE) (100%) - [Levi](https://github.com/Lekuruu)
 - Korean (KR) (100%) - [Sitoria](https://github.com/Sitoria), [Zeee](https://github.com/zeee2), [ilsubyeega](https://github.com/ilsubyeega)
 - Russian (RU) (100%) - [krautzsieberg](https://github.com/krautzsieberg)
@@ -29,6 +29,8 @@ You can find the ISO 3166-1 alpha-2 code for language you are contributing here:
 - Vietnamese (VN) (100%) - [lieuchieu](https://github.com/lieucheiu)
 - Turkish (TR) (100%) - [otistikoglan](https://github.com/otistikoglan)
 - Spanish (ES) (100%) - [JaimeBustos2000](https://github.com/JaimeBustos2000)
+- Chinese (CN) (100%) - [YumeMuzi](https://github.com/YumeMuzi)
+- Traditional Chinese (TW) (100%) - [YumeMuzi](https://github.com/YumeMuzi)
 
 # Contributors
 
